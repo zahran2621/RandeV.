@@ -1,2 +1,0 @@
-# RandeV.
-personal web
